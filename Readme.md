@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга](https://up.htmlacademy.ru/javascript/17/user/892763).
-* Наставник: `Неизвестно`.
+* Наставник: 'Юрий Нехаевский'
 
 ---
 
